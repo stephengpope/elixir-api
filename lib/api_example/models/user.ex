@@ -1,4 +1,4 @@
-defmodule ApiExmaple.User do
+defmodule ApiExample.User do
     use Ecto.Schema
   
     schema "user" do
